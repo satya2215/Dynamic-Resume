@@ -1,0 +1,77 @@
+{
+	"folders": [
+		{
+			"name": "html and css",
+			"path": "../../../../../html and css"
+		},
+		{
+			"name": "python program",
+			"path": "../python program"
+		},
+		{
+			"name": "calculator",
+			"path": "../calculator"
+		},
+		{
+			"name": "c program",
+			"path": "../c program"
+		},
+		{
+			"name": "java program",
+			"path": "../java program"
+		},
+		{
+			"name": "login form",
+			"path": "../login form"
+		},
+		{
+			"name": "portfolio test",
+			"path": "../portfolio test"
+		},
+		{
+			"name": "resume project",
+			"path": "."
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "../react js"
+		},
+		{
+			"path": "../javascriptprogram"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resume project",
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "MySQLconnection",
+				"database": "myshop",
+				"username": "satya",
+				"password": "satyaprakash"
+			},
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"username": "satya",
+				"password": "satyaprakash",
+				"name": "satya",
+				"database": "database"
+			}
+		],
+		"liveServer.settings.port": 5501
+	}
+}
